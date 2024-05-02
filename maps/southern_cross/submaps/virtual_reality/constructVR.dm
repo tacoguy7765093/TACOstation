@@ -225,7 +225,7 @@
 // -- Objects -- //
 /obj/effect/fake_sun/always_day
 	name = "fake sun"
-	advanced_lighting = TRUE
+	advanced_lighting = FALSE
 	desc = "Deletes itself, but first updates all the lighting on outdoor turfs to cool colors."
 	possible_light_setups = list(
 
